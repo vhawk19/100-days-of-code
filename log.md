@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Tried converting a python2 bot to python3
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I had a really hard time on dependencies today. Dataset library in python. I need to learn containers.
+
+**Link to work:** [Telegram bot](https://github.com/BEARlyDev/100DaysOfCodeBot/compare/dev-master...vhawk19:patch-1#diff-7d718f27feb9f69fb552a9df51ee3b7e)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
