@@ -10,11 +10,20 @@
 **Link to work:** [Telegram bot](https://github.com/BEARlyDev/100DaysOfCodeBot/compare/dev-master...vhawk19:patch-1#diff-7d718f27feb9f69fb552a9df51ee3b7e)
 
 
-### Day 2: January 2 2018 
+### Day 1: January 2 2018 
 
 
 **Today's Progress**: Worked on improving hash function in creating a seed from the opencv image frames to obtain noise from the real world
 
-**Link to work:** [wahr](https://github.com/vhawk19/ml_algos/knn.cpp)
+**Link to work:** [wahr](https://github.com/vhawk19/wahr)
+
+
+
+### Day 2: January 3 2018 
+
+
+** To create a function in C++ thats tries to mimick the knn algo, to gain  a better intuitive understanding of the algorithm.
+
+**Link to work:** [knn](https://github.com/vhawk19/ml_algos/knn.cpp)
 
 
